@@ -1,0 +1,1 @@
+IntuneWinAppUtil.exe -c C:\Apps\NotepadPP -s C:\Apps\NotepadPP\npp.8.4.6.Installer.exe -o C:\Apps\NotepadPP\NotepadPP_Packed -q
