@@ -1,0 +1,4 @@
+equals(triggerOutputs()?['body/Gew_x00fc_nschtesThema'],'Power Automate')
+
+#In the trigger condition use:
+@equals(triggerOutputs()?['body/Gew_x00fc_nschtesThema'],'Power Automate')
