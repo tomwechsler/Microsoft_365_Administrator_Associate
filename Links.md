@@ -54,3 +54,5 @@ https://docs.microsoft.com/de-de/exchange/recipients-in-exchange-online/delete-o
 https://support.microsoft.com/de-de/office/einrichten-eines-outlook-kontos-in-der-ios-e-mail-app-b2de2161-cc1d-49ef-9ef9-81acd1c8e234
 
 https://docs.microsoft.com/de-de/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user?view=o365-worldwide
+
+https://learn.microsoft.com/en-us/microsoft-365/admin/add-users/remove-former-employee
