@@ -5,6 +5,12 @@ https://m365maps.com/
 
 https://o365.rocks/
 
+https://learn.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access
+
+https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults
+
+https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+
 https://learn.microsoft.com/en-us/mem/intune/enrollment/windows-enrollment-methods
 
 https://www.dell.com/en-us/shop/help-me-choose/cp/hmc-autopilot
